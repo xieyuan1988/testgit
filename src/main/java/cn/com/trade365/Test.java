@@ -5,7 +5,7 @@ package cn.com.trade365;
  */
 public class Test {
     public static void  main(String[] args){
-        System.out.println("Ìí¼ÓÁËĞ©ĞÂ¹¦ÄÜ");
-        System.out.println("V1.2.0ĞÂ¹¦ÄÜ");
+        System.out.println("æ·»åŠ äº†äº›æ–°åŠŸèƒ½");
+        System.out.println("V1.2.0æ–°åŠŸèƒ½");
     }
 }

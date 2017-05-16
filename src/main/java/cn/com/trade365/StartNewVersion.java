@@ -5,6 +5,6 @@ package cn.com.trade365;
  */
 public class StartNewVersion {
     public static void main(){
-        System.out.println("新版本开发中");
+        System.out.println("鏂扮増鏈紑鍙戜腑");
     }
 }
